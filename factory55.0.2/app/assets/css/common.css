@@ -1,0 +1,30 @@
+body{
+	font-family:Arial;
+	font-size:12px;
+}
+#container{
+	margin:5px;
+	border:1px solid #000;
+	padding:5px;
+	width:600px;
+	float:left;
+}
+#navigation{
+	margin:5px;
+	width:200px;
+	float:left;
+}
+#navigation a{
+	background:#e6eef0;
+	display:block;
+	padding:3px;
+	margin-bottom:1px;
+	text-decoration:none;
+}
+#navigation a:hover{
+	background:#d5e2e6;
+}
+label{
+	font-weight:bold;
+	display:block;
+}
